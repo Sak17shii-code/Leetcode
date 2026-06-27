@@ -1,4 +1,5 @@
 # Leetcode
+#A curated collection of my Leetcode solutions in C++.
 
 
 <!---LeetCode Topics Start-->
