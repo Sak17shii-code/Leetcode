@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sak17shii-code/Leetcode/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Sak17shii-code/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sak17shii-code/Leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sak17shii-code/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sak17shii-code/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
